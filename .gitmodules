@@ -1,0 +1,9 @@
+[submodule "pip"]
+	path = pip
+	url = https://github.com/vinii05/pip.git
+[submodule "viva-la-vida"]
+	path = viva-la-vida
+	url = https://github.com/ishuu03/viva-la-vida.git
+[submodule "archangels"]
+	path = archangels
+	url = https://github.com/URK23CS50DIVYA/archangels.git
